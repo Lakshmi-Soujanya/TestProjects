@@ -1,0 +1,10 @@
+package com.LearnJava.online;
+
+public class Seleniumlocators {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}

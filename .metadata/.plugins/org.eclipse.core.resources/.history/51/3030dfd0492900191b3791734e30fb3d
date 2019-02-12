@@ -1,0 +1,21 @@
+package com.selenium.demo;
+
+public class Demo1 {
+	static int a;
+	static int b;
+	public int add(int a, int b){
+		 int c=0;
+		 c=a+b;
+	return c;	
+		
+		
+	}
+	
+	public static void main(String[] args){
+		Demo1 add1=new Demo1();
+		add1.add(10, 10);
+		int c=0;
+		c=a+b;
+	}
+	
+}

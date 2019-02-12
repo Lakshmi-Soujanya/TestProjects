@@ -1,0 +1,18 @@
+package com.LearnJava.online;
+
+public class Condinaloperators {
+public static void main(String[] args){
+	String a= new  String ("wow");
+	String b= "wow";
+	String c= a;
+	String d=c;
+	
+	boolean b1=a ==  b;
+	boolean b2 = b.equals(b+"!");
+	boolean b3 = !c.equals(a);
+	
+	if (b1&&b2&&b3){
+		System.out.println("Sucess!");
+	}
+}
+}

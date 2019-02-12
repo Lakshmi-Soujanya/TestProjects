@@ -1,0 +1,12 @@
+package com.selenium.demo;
+
+public class Demo {
+
+	public static void main(String[] args) {
+		
+		Demo1 Dem=new Demo1();
+		Dem.sub(20, 10);
+	}
+	
+	
+}

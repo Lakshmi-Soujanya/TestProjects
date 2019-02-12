@@ -1,0 +1,15 @@
+package com.selenium.demo;
+
+public class Demo {
+
+	public static void main(String[] args) {
+		
+		Demo1 Dem=new Demo1();
+		Dem.sub(20, 10);
+		Dem.add(13, 81, 20,5);
+		Dem.weds("arik", "pradeep");
+	}
+	
+	
+}
+

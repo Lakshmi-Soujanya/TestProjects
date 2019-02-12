@@ -1,0 +1,11 @@
+package com.LearnJava.online;
+
+public class primitivetypes {
+	public static void main(String[] args){
+	byte zero=0;
+	String output="w"+zero+"w";
+	System.out.println("output");
+		
+	}
+
+}
